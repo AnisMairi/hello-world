@@ -1,2 +1,2 @@
 # hello-world
-this is a description
+Un petit pas dans git, un grand pas dans l'informatique
